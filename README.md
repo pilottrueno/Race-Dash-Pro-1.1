@@ -1,6 +1,3 @@
-# Race Dash Pro
-Professional Motorsport Dashboard
-Designed & Engineered by Bukhlakoff Motorsport
 
       sounds/# Race Dash Pro
 Professional Motorsport Dashboard

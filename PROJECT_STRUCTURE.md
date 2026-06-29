@@ -1,4 +1,3 @@
-Project structure.
 RaceDashPro/
 
 ├── main.py
